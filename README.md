@@ -4,14 +4,11 @@ Search
 Setup
 -----
 ```sh
-$ git clone https://github.com/kevinlanzon/my-angular-seed
-$ cd my-angular-seed
-$ npm install
-$ bower install
+$ git clone git@github.com:kevinlanzon/search.git
+$ cd search
 $ npm start
 Visit http//localhost:8000/app/
 ```
-
 
 Technologies used
 ----
