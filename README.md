@@ -6,25 +6,20 @@ Setup
 ```sh
 $ git clone git@github.com:kevinlanzon/search.git
 $ cd search
-$ npm start
-Visit http//localhost:8000/app/
+$ npm start // or yarn start
+Runs the app in development mode.
+Open http://localhost:3000 to view it in the browser.
 ```
 
 Technologies used
 ----
-- AngularJS
-- Bootstrap
+- React
 
 File Structure
 ----------------
 ```
-- app
-  - css
-    - app.css
-  - js
+- public
+  - index.html
+  - src
     - app.js: Contains angular module
-    - controller.js: Contains the controller
-  - partials
-    - view1.html: Contains the homepage layout
-  - index.html: Contains the main html
 ```
