@@ -21,5 +21,5 @@ File Structure
 - public
   - index.html
   - src
-    - app.js: Contains angular module
+    - app.js: 
 ```
